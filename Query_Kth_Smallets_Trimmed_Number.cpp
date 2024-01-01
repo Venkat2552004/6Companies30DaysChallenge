@@ -1,7 +1,6 @@
 // Link : https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/
 // Goldman Sachs | Day - 1 | Problem - 3
-// Complexity : O(qSize * n), qSize + n
-
+// Complexity : O(qSize * n), qSize + n 
 
 class Solution {
 public:
