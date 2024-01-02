@@ -1,6 +1,5 @@
-Link : https://leetcode.com/problems/combination-sum-iii/description/
-Goldman Sachs, Amazon | Day - 2 | Problem - 1
-
+// Link : https://leetcode.com/problems/combination-sum-iii/description/
+// Goldman Sachs, Amazon | Day - 2 | Problem - 1
 
 class Solution {
 public:
